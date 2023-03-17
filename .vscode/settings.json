@@ -1,0 +1,5 @@
+{
+    "editor.maxTokenizationLineLength": 30000,
+    "dart.lineLength": 120,
+    "editor.rulers": []
+}
